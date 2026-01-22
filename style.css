@@ -76,7 +76,7 @@ p{
     margin-right: 15px;
 }
 body{
-    background-image: url("ChatGPT\ Image\ 16\ janv.\ 2026\,\ 01_31_44.png");
+    background-image: url("cycliste.png");
     background-position: center 45%;
     background-size: cover;    
     background-repeat: no-repeat;
@@ -211,7 +211,7 @@ button{
   
 .nav-links a{
     text-decoration: none;
-    color: rgba(255,255,255,0.78);
+    color: rgba(255,255,255,0.65);
     font-weight: 500;
     font-size: 13px;
     padding: 7px 9px;
